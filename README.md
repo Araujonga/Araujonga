@@ -20,24 +20,6 @@ Este GitHub funciona como meu espaço de aprendizado, onde compartilho exercíci
 
 ---
 
-## 📚 Atualmente estudando
-
-* Desenvolvimento com Java
-* Estruturas de Dados
-* Boas práticas de programação
-* Versionamento de código com Git
-
----
-
-## 🎯 Objetivos
-
-* Desenvolver projetos cada vez mais completos
-* Aprimorar habilidades em desenvolvimento backend
-* Construir experiência prática em programação
-* Evoluir constantemente como desenvolvedor
-
----
-
 ## 📂 Repositórios
 
 Aqui você encontrará:
@@ -46,11 +28,7 @@ Aqui você encontrará:
 * Exercícios de programação
 * Testes e experimentos
 * Aplicações desenvolvidas durante meus estudos
-
----
-
-## 📫 Contato
-
+  
 ---
 
 > “Aprender programação é construir soluções passo a passo.”
